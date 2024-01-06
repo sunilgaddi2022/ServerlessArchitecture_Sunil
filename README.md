@@ -1,6 +1,6 @@
 # ServerlessArchitecture_Sunil
 
-Uploaded 10 Assignment Answers here, code for each assigbment uploaded above.
+Uploaded 10 Assignment Answers here, code for each assignment uploaded above.
 
 ASSIGNMENT - 1-----------------------------------------------------------------------------------------------------------------------------------------------------
 
